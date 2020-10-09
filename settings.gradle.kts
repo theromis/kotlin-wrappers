@@ -38,6 +38,9 @@ include("kotlin-redux")
 // Kotlin/JS: React Router wrappers
 include("kotlin-react-router-dom")
 
+// Kotlin/JS: Media wrappers
+include("kotlin-react-media")
+
 // Kotlin/JS: styled-components wrappers
 include("kotlin-styled")
 
